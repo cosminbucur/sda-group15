@@ -1,4 +1,4 @@
-package com.sda.testing;
+package com.bucur.testing;
 
 public class MyObject {
 }
