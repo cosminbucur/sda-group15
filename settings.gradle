@@ -1,0 +1,3 @@
+rootProject.name = 'sda-group15'
+include 'testing'
+
