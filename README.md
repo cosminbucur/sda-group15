@@ -19,6 +19,20 @@ The project contains multiple sub modules, each with a similar structure:
 - junit4
 - mockito
 
+### java advanced
+
+oop
+
+    OOP inheritance (IS-A)
+    aggregation (HAS-A) 
+    composition (HAS-A)
+    association
+    OOP encapsulation
+    abstract classes
+    interfaces
+    OOP abstraction
+    OOP polymorphism
+
 ---
 
 ## How to get it on your computer
